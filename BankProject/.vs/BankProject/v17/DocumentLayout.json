@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\react\\BankProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|c:\\react\\bankproject\\bankproject\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|c:\\react\\bankproject\\bankproject\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|c:\\react\\bankproject\\bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|c:\\react\\bankproject\\bankproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|c:\\react\\bankproject\\bankproject\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|c:\\react\\bankproject\\bankproject\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|c:\\react\\bankproject\\bankproject\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|c:\\react\\bankproject\\bankproject\\bankproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB32B76E-90CD-4BE7-9668-8467A5C76D6E}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\bankproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\react\\BankProject\\BankProject\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BankProject\\Models\\Account.cs",
+              "ToolTip": "C:\\react\\BankProject\\BankProject\\Models\\Account.cs",
+              "RelativeToolTip": "BankProject\\Models\\Account.cs",
+              "ViewState": "AgIAAA8AAAAAFwXHXG0UwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:11:47.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\react\\BankProject\\BankProject\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "BankProject\\Models\\Users.cs",
+              "ToolTip": "C:\\react\\BankProject\\BankProject\\Models\\Users.cs",
+              "RelativeToolTip": "BankProject\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:39:57.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trans.cs",
+              "DocumentMoniker": "C:\\react\\BankProject\\BankProject\\Models\\Trans.cs",
+              "RelativeDocumentMoniker": "BankProject\\Models\\Trans.cs",
+              "ToolTip": "C:\\react\\BankProject\\BankProject\\Models\\Trans.cs",
+              "RelativeToolTip": "BankProject\\Models\\Trans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:56:18.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\react\\BankProject\\BankProject\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "BankProject\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\react\\BankProject\\BankProject\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "BankProject\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:45:46.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\react\\BankProject\\BankProject\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "BankProject\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\react\\BankProject\\BankProject\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "BankProject\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAEwGoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:00:38.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\react\\BankProject\\BankProject\\Program.cs",
+              "RelativeDocumentMoniker": "BankProject\\Program.cs",
+              "ToolTip": "C:\\react\\BankProject\\BankProject\\Program.cs",
+              "RelativeToolTip": "BankProject\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:44:00.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\react\\BankProject\\BankProject\\appsettings.json",
+              "RelativeDocumentMoniker": "BankProject\\appsettings.json",
+              "ToolTip": "C:\\react\\BankProject\\BankProject\\appsettings.json",
+              "RelativeToolTip": "BankProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T06:43:04.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankProject.csproj",
+              "DocumentMoniker": "C:\\react\\BankProject\\BankProject\\BankProject.csproj",
+              "RelativeDocumentMoniker": "BankProject\\BankProject.csproj",
+              "ToolTip": "C:\\react\\BankProject\\BankProject\\BankProject.csproj",
+              "RelativeToolTip": "BankProject\\BankProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T06:41:42.826Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\react\\Hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|c:\\react\\hospital\\hospital\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|c:\\react\\hospital\\hospital\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|c:\\react\\hospital\\hospital\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|c:\\react\\hospital\\hospital\\controllers\\protectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\controllers\\protectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|c:\\react\\hospital\\hospital\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|c:\\react\\hospital\\hospital\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|c:\\react\\hospital\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|c:\\react\\hospital\\hospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|c:\\react\\hospital\\hospital\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|c:\\react\\hospital\\hospital\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|c:\\react\\hospital\\hospital\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|c:\\react\\hospital\\hospital\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|c:\\react\\hospital\\hospital\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1999EED-62F0-42FA-953A-E955EC26B5AC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\react\\Hospital\\Hospital\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital\\Program.cs",
+              "ToolTip": "C:\\react\\Hospital\\Hospital\\Program.cs",
+              "RelativeToolTip": "Hospital\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAASwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:56:48.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\react\\Hospital\\Hospital\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\react\\Hospital\\Hospital\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Hospital\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:20:54.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\react\\Hospital\\Hospital\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\Patient.cs",
+              "ToolTip": "C:\\react\\Hospital\\Hospital\\Models\\Patient.cs",
+              "RelativeToolTip": "Hospital\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:26:34.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\react\\Hospital\\Hospital\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Hospital\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\react\\Hospital\\Hospital\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Hospital\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvx0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:27:21.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\react\\Hospital\\Hospital\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Hospital\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\react\\Hospital\\Hospital\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Hospital\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAADgv3gAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:38:49.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\react\\Hospital\\Hospital\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Hospital\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\react\\Hospital\\Hospital\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Hospital\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAEwD0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:40:18.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProtectedController.cs",
+              "DocumentMoniker": "C:\\react\\Hospital\\Hospital\\Controllers\\ProtectedController.cs",
+              "RelativeDocumentMoniker": "Hospital\\Controllers\\ProtectedController.cs",
+              "ToolTip": "C:\\react\\Hospital\\Hospital\\Controllers\\ProtectedController.cs",
+              "RelativeToolTip": "Hospital\\Controllers\\ProtectedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:30:06.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\react\\Hospital\\Hospital\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\react\\Hospital\\Hospital\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "Hospital\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T03:02:38.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\react\\Hospital\\Hospital\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\react\\Hospital\\Hospital\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "Hospital\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:57:11.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\react\\Hospital\\Hospital\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\Doctor.cs",
+              "ToolTip": "C:\\react\\Hospital\\Hospital\\Models\\Doctor.cs",
+              "RelativeToolTip": "Hospital\\Models\\Doctor.cs",
+              "ViewState": "AgIAAA0AAAAwT5LDD6AuwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:15:18.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\react\\Hospital\\Hospital\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\AuthService.cs",
+              "ToolTip": "C:\\react\\Hospital\\Hospital\\Models\\AuthService.cs",
+              "RelativeToolTip": "Hospital\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:53:13.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\react\\Hospital\\Hospital\\appsettings.json",
+              "RelativeDocumentMoniker": "Hospital\\appsettings.json",
+              "ToolTip": "C:\\react\\Hospital\\Hospital\\appsettings.json",
+              "RelativeToolTip": "Hospital\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T04:57:59.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\react\\Hospital\\Hospital\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\IAuthService.cs",
+              "ToolTip": "C:\\react\\Hospital\\Hospital\\Models\\IAuthService.cs",
+              "RelativeToolTip": "Hospital\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T03:01:14.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
